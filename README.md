@@ -1,5 +1,5 @@
 # TCA_SwiftUI
-The Composable Architecture Sample using SwiftUI
+The Composable Architecture using SwiftUI
 
 
 ## State management 
